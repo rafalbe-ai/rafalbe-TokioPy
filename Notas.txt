@@ -5,7 +5,7 @@ Configuración del terminal powershell:
 C:\Oh-my-posh\bin\oh-my-posh.exe init pwsh --config 'C:\Oh-my-posh\themes\atomic.omp.json' | Invoke-Expression
 C:\Oh-my-posh\bin\oh-my-posh.exe init pwsh --config 'C:\Oh-my-posh\themes\clean-detailed.omp.json' | Invoke-Expression
 C:\Oh-my-posh\bin\oh-my-posh.exe init pwsh --config 'C:\Oh-my-posh\themes\devious-diamonds.omp.yaml' | Invoke-Expression
-C:\Oh-my-posh\bin\oh-my-posh.exe init pwsh --config 'C:\Oh-my-posh\themes\hotstick.minimal.omp.json' | Invoke-Expression
+C:\Oh-my-posh\bin\oh-my-posh.exe init pwsh --config 'C:\Oh-my-posh\themes\0_raa.omp.json' | Invoke-Expression
 
 C:\Oh-my-posh\bin\oh-my-posh.exe init pwsh --config 'C:\Oh-my-posh\themes\thecyberden.omp.json' | Invoke-Expression
 
