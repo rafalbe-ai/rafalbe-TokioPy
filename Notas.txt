@@ -13,5 +13,8 @@ C:\Oh-my-posh\bin\oh-my-posh.exe init pwsh --config 'C:\Oh-my-posh\themes\thecyb
 
 
 Activar el enviroment
-
+En Powershell 
 C:\Users\RafaelAlbesaAlcón\Documents\2023-CodigoPython\PythonEnviroments\Env_Tokio1\Scripts\activate.bat
+
+En Bash:
+. C:/Users/RafaelAlbesaAlcón/Documents/2023-CodigoPython/PythonEnviroments/Env_Tokio1/Scripts/activate
