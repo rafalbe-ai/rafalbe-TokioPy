@@ -1,18 +1,33 @@
-Configuración del Termminal BAsh:
+Configuración del Termminal BAsh en el geekom:
 eval "$(oh-my-posh init bash --config c:/oh-my-posh/themes/0_raa.omp.json)"
 
-Configuración del terminal powershell:
+Configuración del Termminal BAsh en el portatil:
+eval "$(oh-my-posh init bash --config C:/Users/rafal/AppData/Local/Programs/oh-my-posh/themes/0_raa.omp.json)"
+
+
+
+
+Configuración del terminal powershell en geekom:
 C:\Oh-my-posh\bin\oh-my-posh.exe init pwsh --config 'C:\Oh-my-posh\themes\atomic.omp.json' | Invoke-Expression
 C:\Oh-my-posh\bin\oh-my-posh.exe init pwsh --config 'C:\Oh-my-posh\themes\clean-detailed.omp.json' | Invoke-Expression
 C:\Oh-my-posh\bin\oh-my-posh.exe init pwsh --config 'C:\Oh-my-posh\themes\devious-diamonds.omp.yaml' | Invoke-Expression
 C:\Oh-my-posh\bin\oh-my-posh.exe init pwsh --config 'C:\Oh-my-posh\themes\0_raa.omp.json' | Invoke-Expression
 
-C:\Oh-my-posh\bin\oh-my-posh.exe init pwsh --config 'C:\Oh-my-posh\themes\thecyberden.omp.json' | Invoke-Expression
+Configuración del terminal powershell en el portátil
+C:\Users\rafal\AppData\Local\Programs\oh-my-posh\bin\oh-my-posh.exe init pwsh --config 'C:\Users\rafal\AppData\Local\Programs\oh-my-posh\themes\0_raa.omp.json' | Invoke-Expression
 
 
 
+Activar el enviroment en el geekom
+En Powershell 
+C:\Users\RafaelAlbesaAlcón\Documents\2023-CodigoPython\PythonEnviroments\Env_Tokio1\Scripts\activate.bat
 
-Activar el enviroment
+En Bash:
+. C:/Users/RafaelAlbesaAlcón/Documents/2023-CodigoPython/PythonEnviroments/Env_Tokio1/Scripts/activate
+
+
+
+Activar el enviroment en el portátil
 En Powershell 
 C:\Users\RafaelAlbesaAlcón\Documents\2023-CodigoPython\PythonEnviroments\Env_Tokio1\Scripts\activate.bat
 
