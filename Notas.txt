@@ -29,7 +29,7 @@ En Bash:
 
 Activar el enviroment en el portátil
 En Powershell 
-C:\Users\RafaelAlbesaAlcón\Documents\2023-CodigoPython\PythonEnviroments\Env_Tokio1\Scripts\activate.bat
+C:\Users\rafal\Documents\2023-CodigoPython\PythonEnviroments\Env_Tokio1\bin\activate.ps1
 
 En Bash:
-. C:/Users/RafaelAlbesaAlcón/Documents/2023-CodigoPython/PythonEnviroments/Env_Tokio1/Scripts/activate
+. C:/Users/rafal/Documents/2023-CodigoPython/PythonEnviroments/Env_Tokio1/bin/activate
