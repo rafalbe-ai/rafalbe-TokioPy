@@ -1,0 +1,108 @@
+    - Bruschetta : 4.5 €
+    - Garlic Knots : 3.6 €
+    - Lasagna : 10.8 €
+    - Pesto Pasta : 9.9 €
+    - Tiramisu : 6.3 €
+    - Cannoli : 5.4 €
+    - Bruschetta : 4.5 €
+    - Garlic Knots : 3.6 €
+    - Lasagna : 10.8 €
+    - Pesto Pasta : 9.9 €
+    - Tiramisu : 6.3 €
+    - Cannoli : 5.4 €
+    - Guacamole : 5.4 €
+    - Queso Fundido : 4.5 €
+    - Taco Platter : 8.8 €
+    - Burrito Bowl : 7.9 €
+    - Churros : 3.6 €
+    - Flan : 4.5 €
+    - Guacamole : 5.4 €
+    - Queso Fundido : 4.5 €
+    - Taco Platter : 8.8 €
+    - Burrito Bowl : 7.9 €
+    - Churros : 3.6 €
+    - Flan : 4.5 €
+    - Edamame : 3.6 €
+    - Potstickers : 4.5 €
+    - Pad Thai : 9.9 €
+    - Teriyaki Chicken : 10.8 €
+    - Mochi : 5.4 €
+    - Green Tea Ice Cream : 4.5 €
+    - Edamame : 3.6 €
+    - Potstickers : 4.5 €
+    - Pad Thai : 9.9 €
+    - Teriyaki Chicken : 10.8 €
+    - Mochi : 5.4 €
+    - Green Tea Ice Cream : 4.5 €
+    - Bruschetta : 4.5 €
+    - Garlic Knots : 3.6 €
+    - Lasagna : 10.8 €
+    - Pesto Pasta : 9.9 €
+    - Tiramisu : 6.3 €
+    - Cannoli : 5.4 €
+    - Bruschetta : 4.5 €
+    - Garlic Knots : 3.6 €
+    - Lasagna : 10.8 €
+    - Pesto Pasta : 9.9 €
+    - Tiramisu : 6.3 €
+    - Cannoli : 5.4 €
+    - Guacamole : 5.4 €
+    - Queso Fundido : 4.5 €
+    - Taco Platter : 8.8 €
+    - Burrito Bowl : 7.9 €
+    - Churros : 3.6 €
+    - Flan : 4.5 €
+    - Guacamole : 5.4 €
+    - Queso Fundido : 4.5 €
+    - Taco Platter : 8.8 €
+    - Burrito Bowl : 7.9 €
+    - Churros : 3.6 €
+    - Flan : 4.5 €
+    - Edamame : 3.6 €
+    - Potstickers : 4.5 €
+    - Pad Thai : 9.9 €
+    - Teriyaki Chicken : 10.8 €
+    - Mochi : 5.4 €
+    - Green Tea Ice Cream : 4.5 €
+    - Edamame : 3.6 €
+    - Potstickers : 4.5 €
+    - Pad Thai : 9.9 €
+    - Teriyaki Chicken : 10.8 €
+    - Mochi : 5.4 €
+    - Green Tea Ice Cream : 4.5 €
+    - Bruschetta : 4.5 €
+    - Garlic Knots : 3.6 €
+    - Lasagna : 10.8 €
+    - Pesto Pasta : 9.9 €
+    - Tiramisu : 6.3 €
+    - Cannoli : 5.4 €
+    - Bruschetta : 4.5 €
+    - Garlic Knots : 3.6 €
+    - Lasagna : 10.8 €
+    - Pesto Pasta : 9.9 €
+    - Tiramisu : 6.3 €
+    - Cannoli : 5.4 €
+    - Guacamole : 5.4 €
+    - Queso Fundido : 4.5 €
+    - Taco Platter : 8.8 €
+    - Burrito Bowl : 7.9 €
+    - Churros : 3.6 €
+    - Flan : 4.5 €
+    - Guacamole : 5.4 €
+    - Queso Fundido : 4.5 €
+    - Taco Platter : 8.8 €
+    - Burrito Bowl : 7.9 €
+    - Churros : 3.6 €
+    - Flan : 4.5 €
+    - Edamame : 3.6 €
+    - Potstickers : 4.5 €
+    - Pad Thai : 9.9 €
+    - Teriyaki Chicken : 10.8 €
+    - Mochi : 5.4 €
+    - Green Tea Ice Cream : 4.5 €
+    - Edamame : 3.6 €
+    - Potstickers : 4.5 €
+    - Pad Thai : 9.9 €
+    - Teriyaki Chicken : 10.8 €
+    - Mochi : 5.4 €
+    - Green Tea Ice Cream : 4.5 €
