@@ -1,0 +1,12 @@
+{'desayuno': 
+    {
+        'alimentos': 
+        [
+            {'nombre': 'Leche desnatada', 'calorias': 50, 'categoria': 'Lácteos'},
+            {'nombre': 'Yogur natural', 'calorias': 70, 'categoria': 'Lácteos'}, 
+            {'nombre': 'Huevos revueltos', 'calorias': 200, 'categoria': 'Proteínas'}, 
+            {'nombre': 'Tostadas de pan integral', 'calorias': 100, 'categoria': 'Cereales'}, 
+            {'nombre': 'Fruta fresca', 'calorias': 50, 'categoria': 'Vegetales'}, 
+            {'nombre': 'raa2', 'calorias': '334', 'categoria': 'Cereales'}
+        ]
+    }, 'comida': {'alimentos': [{'nombre': 'Pollo asado', 'calorias': 300, 'categoria': 'Proteínas'}, {'nombre': 'Pescado a la plancha', 'calorias': 250, 'categoria': 'Proteínas'}, {'nombre': 'Ensalada de atún', 'calorias': 200, 'categoria': 'Vegetales'}, {'nombre': 'Arroz integral', 'calorias': 150, 'categoria': 'Cereales'}, {'nombre': 'Judías verdes', 'calorias': 50, 'categoria': 'Vegetales'}]}, 'cena': {'alimentos': [{'nombre': 'Sopa de verduras', 'calorias': 100, 'categoria': 'Vegetales'}, {'nombre': 'Ensalada mixta', 'calorias': 150, 'categoria': 'Vegetales'}, {'nombre': 'Tortilla de patatas', 'calorias': 250, 'categoria': 'Proteínas'}, {'nombre': 'Queso fresco', 'calorias': 100, 'categoria': 'Lácteos'}, {'nombre': 'Frutos secos', 'calorias': 150, 'categoria': 'Vegetales'}]}}
