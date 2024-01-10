@@ -1,0 +1,1 @@
+eval "$(oh-my-posh init bash --config c:/oh-my-posh/themes/0_raa.omp.json)" && . C:/Users/RafaelAlbesaAlcón/Documents/2023-CodigoPython/PythonEnviroments/Env_Tokio1/Scripts/activate
