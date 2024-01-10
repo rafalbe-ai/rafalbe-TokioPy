@@ -1,0 +1,46 @@
+[{
+    "name": "Jason Ray",
+    "profession": "Software Engineer",
+    "age": 31,
+    "address": {
+        "city": "New York",
+        "postalCode": 64780,
+        "Country": "USA"
+    },
+    "languages": ["Java", "Node.js", "JavaScript", "JSON"],
+    "socialProfiles": [
+        {
+            "name": "Twitter",
+            "link": "https://twitter.com"
+        },
+        {
+            "name": "Facebook",
+            "link": "https://www.facebook.com"
+        }
+    ]
+},
+
+{
+    "name": "Rafa Albesa",
+    "profession": "Telecom Engineer",
+    "age": 54,
+    "address": {
+        "city": "Castellón",
+        "postalCode": 12001,
+        "Country": "ESP"
+    },
+    "languages": ["Java", "Python", "JavaScript", "JSON"],
+    "socialProfiles": [
+        {
+            "name": "Twitter",
+            "link": "https://twitter.com"
+        },
+        {
+            "name": "Facebook",
+            "link": "https://www.facebook.com"
+        }
+    ]
+}
+
+
+]
