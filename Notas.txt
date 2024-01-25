@@ -24,6 +24,7 @@ C:\Users\RafaelAlbesaAlcón\Documents\2023-CodigoPython\PythonEnviroments\Env_To
 
 En Bash:
 . C:/Users/RafaelAlbesaAlcón/Documents/2023-CodigoPython/PythonEnviroments/Env_Tokio1/Scripts/activate
+. C:/Users/RafaelAlbesaAlcón/Documents/2023-CodigoPython/PythonEnviroments/PythonCrashCourse/Scripts/activate
 
 
 
@@ -33,3 +34,8 @@ C:\Users\rafal\Documents\2023-CodigoPython\PythonEnviroments\Env_Tokio1\bin\acti
 
 En Bash:
 . C:/Users/rafal/Documents/2023-CodigoPython/PythonEnviroments/Env_Tokio1/bin/activate
+
+
+
+Crear un enviroment
+python -m venv C:/Users/RafaelAlbesaAlcón/Documents/2023-CodigoPython/PythonEnviroments/PythonCrashCourse
