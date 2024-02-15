@@ -1,5 +1,5 @@
 Configuración del Termminal BAsh en el geekom:
-eval "$(oh-my-posh init bash --config c:/oh-my-posh/themes/0_raa.omp.json)"
+$ eval "$(c:/oh-my-posh/bin/oh-my-posh.exe  init bash --config c:/oh-my-posh/themes/0_raa.omp.json)"
 
 Configuración del Termminal BAsh en el portatil:
 eval "$(oh-my-posh init bash --config C:/Users/rafal/AppData/Local/Programs/oh-my-posh/themes/0_raa.omp.json)"
