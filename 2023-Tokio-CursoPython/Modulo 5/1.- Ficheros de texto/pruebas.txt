@@ -1,0 +1,1 @@
+Nueva línea tras borrar el fichero por abrirlo en formato escritura en lugar de append.
