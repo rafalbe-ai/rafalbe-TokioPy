@@ -24,6 +24,7 @@ C:\Users\RafaelAlbesaAlcón\Documents\2023-CodigoPython\PythonEnviroments\Env_To
 
 En Bash:
 . C:/Users/RafaelAlbesaAlcón/Documents/2023-CodigoPython/PythonEnviroments/Env_Tokio1/Scripts/activate
+. C:/Users/RafaelAlbesaAlcón/Documents/2023-CodigoPython/PythonEnviroments/Tokio2/Scripts/activate
 . C:/Users/RafaelAlbesaAlcón/Documents/2023-CodigoPython/PythonEnviroments/PythonCrashCourse/Scripts/activate
 
 
