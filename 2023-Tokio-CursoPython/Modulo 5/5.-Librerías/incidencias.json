@@ -1,0 +1,137 @@
+{
+    "incidencias": [
+        {
+            "id": "INC001",
+            "tipo": "retraso",
+            "aerolinea": {
+                "nombre": "American Airlines",
+                "codigo": "AA"
+            },
+            "vuelo": {
+                "numero": "AA1234",
+                "origen": "Dallas",
+                "destino": "Nueva York",
+                "hora_salida": "2023-03-20T08:30:00Z",
+                "hora_llegada": "2023-03-20T12:45:00Z"
+            },
+            "razon": {
+                "tipo": "problemas_tecnicos",
+                "descripcion": "El vuelo se retras\u00f3 debido a problemas t\u00e9cnicos con la aeronave."
+            }
+        },
+        {
+            "id": "INC002",
+            "tipo": "cancelacion",
+            "aerolinea": {
+                "nombre": "Delta Air Lines",
+                "codigo": "DL"
+            },
+            "vuelo": {
+                "numero": "DL5678",
+                "origen": "Los Angeles",
+                "destino": "Atlanta",
+                "hora_salida": "2023-03-21T10:15:00Z",
+                "hora_llegada": "2023-03-21T16:25:00Z"
+            },
+            "razon": {
+                "tipo": "condiciones_climaticas_adversas",
+                "descripcion": "El vuelo se cancel\u00f3 debido a las condiciones clim\u00e1ticas adversas en el aeropuerto de destino."
+            }
+        },
+        {
+            "id": "INC003",
+            "tipo": "retraso",
+            "aerolinea": {
+                "nombre": "United Airlines",
+                "codigo": "UA"
+            },
+            "vuelo": {
+                "numero": "UA4321",
+                "origen": "Chicago",
+                "destino": "Miami",
+                "hora_salida": "2023-03-22T14:20:00Z",
+                "hora_llegada": "2023-03-22T18:05:00Z"
+            },
+            "razon": {
+                "tipo": "mantenimiento",
+                "descripcion": "El vuelo se retras\u00f3 debido a trabajos de mantenimiento en la pista del aeropuerto de destino."
+            }
+        },
+        {
+            "id": "INC004",
+            "tipo": "retraso",
+            "aerolinea": {
+                "nombre": "British Airways",
+                "codigo": "BA"
+            },
+            "vuelo": {
+                "numero": "BA6789",
+                "origen": "Londres",
+                "destino": "Par\u00eds",
+                "hora_salida": "2023-03-23T11:30:00Z",
+                "hora_llegada": "2023-03-23T14:10:00Z"
+            },
+            "razon": {
+                "tipo": "problemas_tecnicos",
+                "descripcion": "El vuelo se retras\u00f3 debido a problemas t\u00e9cnicos con el equipo de tierra en el aeropuerto de origen."
+            }
+        },
+        {
+            "id": "INC005",
+            "tipo": "retraso",
+            "aerolinea": {
+                "nombre": "Air France",
+                "codigo": "AF"
+            },
+            "vuelo": {
+                "numero": "AF2468",
+                "origen": "Par\u00eds",
+                "destino": "Madrid",
+                "hora_salida": "2023-03-24T08:45:00Z",
+                "hora_llegada": "2023-03-24T14:30:00Z"
+            },
+            "razon": {
+                "tipo": "tr\u00e1fico_a\u00e9reo",
+                "descripcion": "El vuelo se retras\u00f3 debido al tr\u00e1fico a\u00e9reo en el aeropuerto de destino."
+            }
+        },
+        {
+            "id": "INC006",
+            "tipo": "cancelacion",
+            "aerolinea": {
+                "nombre": "Lufthansa",
+                "codigo": "LH"
+            },
+            "vuelo": {
+                "numero": "LH9876",
+                "origen": "Fr\u00e1ncfort",
+                "destino": "Tokio",
+                "hora_salida": "2023-03-25T19:00:00Z",
+                "hora_llegada": "2023-03-26T11:45:00Z"
+            },
+            "razon": {
+                "tipo": "problemas_tecnicos",
+                "descripcion": "El vuelo se cancel\u00f3 debido a problemas t\u00e9cnicos con la aeronave."
+            }
+        },
+        {
+            "id": "INC007",
+            "tipo": "retraso",
+            "aerolinea": {
+                "nombre": "IBERIA",
+                "codigo": "IBE"
+            },
+            "vuelo": {
+                "numero": "1234",
+                "origen": "Madrid",
+                "destino": "Barcelona",
+                "hora_salida": "2023-03-25T19:00:00Z",
+                "hora_llegada": "2023-03-26T11:45:00Z"
+            },
+            "razon": {
+                "tipo": "Clima",
+                "descripcion": "Nieve intensa en pista"
+            }
+        }
+    ]
+}

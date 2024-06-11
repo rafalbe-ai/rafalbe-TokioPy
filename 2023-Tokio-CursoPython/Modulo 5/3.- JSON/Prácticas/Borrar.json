@@ -1,0 +1,40 @@
+{
+	"nombreEquipo": "Super Hero Squad",
+	"ciudad": "Metro City",
+	"formado": 2016,
+	"baseSecreta": "Super Tower",
+	"activo": "Si",
+	"miembros activos": [
+		{
+			"nombre": "SuperMan",
+			"edad": 29,
+			"identidadSecreta": "Clart Kent",
+			"poderes": [
+				"Super fuerza",
+				"Super velocidad",
+				"Rayos en los ojos"
+			]
+		},
+  		{
+			"nombre": "Wonder Woman",
+			"edad": 900,
+			"identidadSecreta": "Diana de Temiscira",
+			"poderes": [
+				"Super fuerza",
+				"Super velocidad"
+			]
+		}],
+	"miembros inactivos": [
+		{
+			"nombre": "Batman",
+			"edad": 350,
+			"identidadSecreta": "Bruce Wayne",
+			"poderes": [
+				"Detective",
+				"Dinero",
+				"Rayos en los ojos"
+			]
+		}
+		
+	]
+}

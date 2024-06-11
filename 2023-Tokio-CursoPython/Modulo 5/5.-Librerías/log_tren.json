@@ -1,0 +1,84 @@
+{
+  "log": [
+    {
+      "id": "LOG0001",
+      "type": "error",
+      "level": "warning",
+      "category": "hardware",
+      "description": "El sensor de velocidad está fallando.",
+      "timestamp": "2023-03-18T12:30:00Z"
+    },
+    {
+      "id": "LOG0002",
+      "type": "error",
+      "level": "critical",
+      "category": "software",
+      "description": "El sistema de frenos no está respondiendo.",
+      "timestamp": "2023-03-19T08:45:00Z"
+    },
+    {
+      "id": "LOG0003",
+      "type": "error",
+      "level": "warning",
+      "category": "hardware",
+      "description": "La puerta del vagón está atascada.",
+      "timestamp": "2023-03-19T15:20:00Z"
+    },
+    {
+      "id": "LOG0004",
+      "type": "error",
+      "level": "info",
+      "category": "software",
+      "description": "La actualización de software ha sido realizada con éxito.",
+      "timestamp": "2023-03-20T11:10:00Z"
+    },
+    {
+      "id": "LOG0005",
+      "type": "error",
+      "level": "warning",
+      "category": "hardware",
+      "description": "El aire acondicionado no funciona correctamente.",
+      "timestamp": "2023-03-20T16:30:00Z"
+    },
+    {
+      "id": "LOG0006",
+      "type": "error",
+      "level": "critical",
+      "category": "software",
+      "description": "El sistema de control de velocidad está fallando.",
+      "timestamp": "2023-03-21T06:55:00Z"
+    },
+    {
+      "id": "LOG0007",
+      "type": "error",
+      "level": "warning",
+      "category": "hardware",
+      "description": "El sistema de iluminación del vagón no funciona correctamente.",
+      "timestamp": "2023-03-21T12:40:00Z"
+    },
+    {
+      "id": "LOG0008",
+      "type": "error",
+      "level": "info",
+      "category": "software",
+      "description": "El sistema de información de pasajeros ha sido actualizado.",
+      "timestamp": "2023-03-22T09:15:00Z"
+    },
+    {
+      "id": "LOG0009",
+      "type": "error",
+      "level": "warning",
+      "category": "hardware",
+      "description": "El sistema de comunicación interna del tren no está funcionando.",
+      "timestamp": "2023-03-22T16:05:00Z"
+    },
+    {
+      "id": "LOG0010",
+      "type": "error",
+      "level": "critical",
+      "category": "software",
+      "description": "El sistema de control de puertas está fallando.",
+      "timestamp": "2023-03-23T05:30:00Z"
+    }
+  ]
+}
